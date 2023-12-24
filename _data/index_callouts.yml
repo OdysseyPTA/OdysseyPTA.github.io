@@ -1,0 +1,21 @@
+style: is-light
+height: is-medium
+items:
+  - title: Community Calendar
+    description: Stay on top of the when and where for all things Odyssey
+#    icon: fa-calendar
+    icon: calendar-days-solid
+    call_to_action_name: Calendar
+    call_to_action_link: /calendar/
+  - title: Direct Giving
+#    icon: fa-circle-dollar-to-slot-solid
+    icon: fa-dollar-sign
+    description: Submit your Direct Giving Commitment form or make your payment
+    call_to_action_name: Direct Giving
+    call_to_action_link: /direct_giving/
+  - title: Volunteer
+#    icon: fa-handshake-angle-solid
+    icon: fa-handshake
+    description: Our program isn't possible without help from volunteers
+    call_to_action_name: Volunteer
+    call_to_action_link: /volunteer/
