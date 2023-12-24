@@ -4,7 +4,7 @@ build:
 	bundle exec jekyll build
 
 test:
-	bundle exec jekyll serve --livereload
+	bundle exec jekyll serve --incremental --livereload
 
 update: update-gems
 
