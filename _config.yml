@@ -28,10 +28,10 @@ url: "https://odysseypta.github.io" # the base hostname & protocol for your site
 github_username:  OdysseyPTA
 
 # Build settings
-#theme: minima
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
-  - jekyll-feed
+  - jekyll-font-awesome-sass
+#  - jekyll-feed
 
 defaults:
   - scope:
@@ -59,4 +59,6 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - Makefile
