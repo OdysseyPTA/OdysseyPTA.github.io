@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Odyssey Program PTA is a 501(c)(3) dedicated to supporting the [Odyssey Program at East Sylvan](http://odysseyprogram.org){:target="_blank" rel="noopener"}, a Focus Option [Program of Portland Public Schools](https://pps.net/){:target="_blank" rel="noopener"}.
+The Odyssey Program PTA is a 501(c)(3) dedicated to supporting the [Odyssey Program at East Sylvan](http://odysseyprogram.org){:target="_blank" rel="noopener"}, a Focus Option [Program of Portland Public Schools](https://www.pps.net/){:target="_blank" rel="noopener"}.
 
 ## The Board
 
