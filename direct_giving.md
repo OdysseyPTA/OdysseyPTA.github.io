@@ -17,7 +17,7 @@ Your Direct Giving can be paid online via:
 - [Arts People (one-time or recurring payments)](https://app.arts-people.com/index.php?contribution=odyk8){:target="_blank" rel="noopener"}
 - [PayPal](https://www.paypal.com/donate/?hosted_button_id=LAGJCDXWJ2W7W){:target="_blank" rel="noopener"}
 
-You can also pay by check. Make your check payable to "Odyssey PTA" and put your student or students' name(s) in the memo line. Drop your check in the PTA box in the front office, or mail to:
+You can also pay by check. Make your check payable to "Odyssey PTA" and put your student or students' name(s) in the memo line. Drop your check in the PTA box in the school office, or mail to:
 
 > ODYSSEY PTA<br>
 > 1849 SW 58TH AVE<br>
