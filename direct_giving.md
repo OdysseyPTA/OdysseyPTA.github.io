@@ -25,7 +25,7 @@ You can also pay by check. Make your check payable to "Odyssey PTA" and put your
 
 ## Confidentiality
 
-Your Direct Giving commitment is only seen by the Direct Giving Coordinator. We limit access to Direct Giving payment information as much as possible:
+Your Direct Giving commitment is seen only by the Direct Giving Coordinator. We limit access to Direct Giving payment information as much as possible:
 
 - Arts People payments are managed directly by the Direct Giving Coordinator. Arts People transfers a lump sum to the PTA's bank account monthly.
 - PayPal payments and checks are handled by the Treasurer, who reports the individual payments to the Direct Giving Coordinator.
