@@ -8,7 +8,7 @@ permalink: /direct_giving/
 
 ***Put some text here about how it's important to get commitment forms, even if they are $0, so we know what to expect and when.***
 
-[Direct Giving Commitment 2023-2024](https://form.jotform.com/232260694125150)
+[Direct Giving Commitment 2023-2024](https://form.jotform.com/232260694125150){:target="_blank" rel="noopener"}
 
 ## Paying your Direct Giving
 
