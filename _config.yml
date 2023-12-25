@@ -29,8 +29,7 @@ github_username:  OdysseyPTA
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
-plugins:
-  - jekyll-font-awesome-sass
+#plugins:
 #  - jekyll-feed
 
 defaults:
