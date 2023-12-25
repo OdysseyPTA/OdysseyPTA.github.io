@@ -9,7 +9,3 @@ callouts: index_callouts
 hero_image: /assets/img/Odyssey at the coast.jpg
 hero_darken: true
 ---
-
-## NOTES / TO DO
-Should also have info on how to submit to the newsletter, who to talk to if
-you aren't getting the newsletter, link to PPS site, link to Odyssey page on PPS site
