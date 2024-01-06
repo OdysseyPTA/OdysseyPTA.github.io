@@ -1,8 +1,9 @@
-- name: Calendar
-  link: /calendar/
-- name: Direct Giving
-  link: /direct_giving/
-- name: Volunteer
-  link: /volunteer/
-- name: About
-  link: /about/
+# Pushing a version with no top navigation and minimal front page.
+#- name: Calendar
+#  link: /calendar/
+#- name: Direct Giving
+#  link: /direct_giving/
+#- name: Volunteer
+#  link: /volunteer/
+#- name: About
+#  link: /about/
