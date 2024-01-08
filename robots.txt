@@ -1,4 +1,4 @@
-# Site is not ready for prime time
+# Site is not ready for indexing
 User-agent: *
 Disallow: /
 
