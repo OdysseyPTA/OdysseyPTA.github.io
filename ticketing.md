@@ -21,11 +21,11 @@ If you have any questions or concerns about the ticketing process specifically, 
 
 Attendance at the K12 and 345 performances is limited to the families of students within the performing cluster. Seating is general admission. Given typical cluster enrollment, offering two performances allows for four seats per student each year. **The seat limit is *not* per showing.** The seat limit is across the pair of showings. Split it up as needed. Before deciding to split your attendance, please keep in mind that parking is also very limited. When it is time to allocate seating, the cluster teachers or coordinator will send everyone a link to the ticketing form. Tickets are free. They are used solely to manage auditorium capacity.
 
-The form will ask for the name of the student who is associated with the ticket or tickets being ordered. Please use the first and last name of the student. We [audit](https://en.wikipedia.org/wiki/Trust,_but_verify) the ticket reservations. It's easier to get a count if the student name is clear.
+The form will ask for the name of the student who is associated with the ticket or tickets being ordered. Please use the first and last name of the student. We [audit](https://en.wikipedia.org/wiki/Trust,_but_verify) the ticket reservations. It's easier to get a count if the student's name is clear.
 
 If someone is not using their entire allocation of tickets, spare tickets can be given to the families of other students. The smoothest way to manage that is to have the receiving individual reserve the ticket and use the name of the student who is giving up the seat.
 
-We do our best to ensure that everyone who wants tickets claims their tickets. Then, if there is still space available, we will notify the cluster that each student may have one additional ticket, up to the capacity of each showing.
+We do our best to ensure that everyone who wants tickets claims their tickets. Then, if there is still space available, we will notify the cluster that each student may have one additional ticket, first-come first-serve, up to the capacity of each showing. 
 
 
 [//]: <> (## The Mahopa (345 Performance))
