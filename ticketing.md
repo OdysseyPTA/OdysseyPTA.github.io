@@ -65,7 +65,7 @@ Communicate with your peers in the Odyssey community. Find someone who isn't usi
 
 Respectfully and patiently. Go somewhere that Odyssey community members hang out (e.g., afterschool pick-up, Coffee Cart, etc.) and find someone to talk to.
 
-Within the context of ticketing, we're experimenting with a Discourse server to supplement other means. A link should have been included with the ticket announcement and should be on the ticketing form.[^3] If you use Facebook, you can check the Odyssey Facebook group.
+Within the context of ticketing, we're experimenting with a Google Group to supplement other means. A link should have been included with the ticket announcement and should be on the ticketing form.[^3] If you use Facebook, you can check the Odyssey Facebook group.
 
 [^3]: If a link was not included in the announcement and is not on the ticketing form, then most likely the experiment failed and we haven't updated the FAQ yet.
 
