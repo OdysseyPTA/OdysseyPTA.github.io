@@ -59,7 +59,7 @@ You have two options to get that extra ticket:
 
 ### How do I get more than one extra ticket?
 
-Communicate with your peers in the Odyssey community. Find someone who isn't using their full allocation and is willing to share with you.
+Communicate with your peers in the Odyssey community. Find someone who isn't using their full allocation and is willing to share with you. Repeat as necessary.
 
 ### How do I communicate with my peers in the Odyssey community?
 
