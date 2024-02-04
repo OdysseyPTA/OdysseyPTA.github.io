@@ -25,7 +25,7 @@ The form will ask for the name of the student who is associated with the ticket 
 
 If someone is not using their entire allocation of tickets, spare tickets can be given to the families of other students. The smoothest way to manage that is to have the receiving individual reserve the ticket and use the name of the student who is giving up the seat.
 
-We do our best to ensure that everyone who wants tickets claims their tickets. Then, if there is still space available, we will notify the cluster that each student may have one additional ticket, first-come first-serve, up to the capacity of each showing. 
+We do our best to ensure that everyone who wants tickets claims their tickets. Then, if there is still space available, we will notify the cluster that each student may have one additional ticket, first-come first-serve, up to the capacity of each showing.
 
 
 [//]: <> (## The Mahopa (345 Performance))
@@ -53,7 +53,7 @@ Usually the first showing has more demand than the second showing. Choose the se
 
 You have two options to get that extra ticket:
 
-1. Wait until you are released to obtain a fifth ticket within a couple days of the performance. The original capacity stays the same, so make sure you get your fifth ticket before everyone else fills up the performance.
+1. Wait until you are released to obtain a fifth ticket within a couple days of the performance. This is a last-minute option that requires flexibility and quick action. The original capacity stays the same, so make sure you get your fifth ticket before everyone else fills up the performance. Option 2 may be more reliable.
 
 2. Communicate with your peers in the Odyssey community. Find someone who isn't using their full allocation and is willing to share with you.
 
