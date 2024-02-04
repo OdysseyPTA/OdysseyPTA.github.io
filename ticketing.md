@@ -19,9 +19,9 @@ If you have any questions or concerns about the ticketing process specifically, 
 
 # K12 and 345 Performances
 
-Attendance at the K12 and 345 Performances is limited to the families of students within the performing cluster. Seating is general admission. Given typical cluster enrollment, offering two performances allows for four seats per student each year. **The seat limit is *not* per showing.** The seat limit is across the pair of showings. Split it up as needed. Before deciding to split your attendance, please keep in mind that parking is also very limited. If you have an Odyssey student who is in a different cluster, please do not get them a ticket. There is a third showing for students during school hours. When it is time to allocate seating, the cluster teachers or coordinator will send everyone a link to the ticketing form. Tickets are free. They are used solely to manage auditorium capacity.
+Attendance at the K12 and 345 performances is limited to the families of students within the performing cluster. Seating is general admission. Given typical cluster enrollment, offering two performances allows for four seats per student each year. **The seat limit is *not* per showing.** The seat limit is across the pair of showings. Split it up as needed. Before deciding to split your attendance, please keep in mind that parking is also very limited. When it is time to allocate seating, the cluster teachers or coordinator will send everyone a link to the ticketing form. Tickets are free. They are used solely to manage auditorium capacity.
 
-The form will ask for the name of the student who is associated with the ticket or tickets being ordered. Please use the first and last name of the student. We [audit](https://en.wikipedia.org/wiki/Trust,_but_verify) the ticket reservations, and it's easier to get a count if the student name is clear.
+The form will ask for the name of the student who is associated with the ticket or tickets being ordered. Please use the first and last name of the student. We [audit](https://en.wikipedia.org/wiki/Trust,_but_verify) the ticket reservations. It's easier to get a count if the student name is clear.
 
 If someone is not using their entire allocation of tickets, spare tickets can be given to the families of other students. The smoothest way to manage that is to have the receiving individual reserve the ticket and use the name of the student who is giving up the seat.
 
@@ -41,13 +41,15 @@ We do our best to ensure that everyone who wants tickets claims their tickets. T
 
 # FAQ
 
-## I don't care which showing I go to. What can I do to help everyone else?
+[//]: <> (## K12 & 345)
+
+### I don't care which showing I go to. What can I do to help everyone else?
 
 Usually the first showing has more demand than the second showing. Choose the second showing.[^2]
 
-[^2]: "But won't this load up the second showing instead?" If we find this to be a problem, we will update the FAQ. We're skeptical that enough people both, (1) genuinely don't care which date/time they attend, and (2) will read this far in this document, to skew attendance heavily to the second showing.
+[^2]: "But won't this load up the second showing instead?" If we find this to be a problem, we will update the FAQ. We're skeptical that enough people both, (1) genuinely don't care which date/time they attend, and (2) will read this far in this document, to skew attendance heavily to the second showing. Feel free to flip a coin instead.
 
-## The limit is four tickets. I need five tickets. What can I do?
+### The limit is four tickets. I need five tickets. What can I do?
 
 You have two options to get that extra ticket:
 
@@ -55,15 +57,15 @@ You have two options to get that extra ticket:
 
 2. Communicate with your peers in the Odyssey community. Find someone who isn't using their full allocation and is willing to share with you.
 
-## How do I get more than one extra ticket?
+### How do I get more than one extra ticket?
 
-Communicate with your peers in the Odyssey community. Find someone who isn't using their full allocation and is whilling to share with you.
+Communicate with your peers in the Odyssey community. Find someone who isn't using their full allocation and is willing to share with you.
 
-## How do I communicate with my peers in the Odyssey community?
+### How do I communicate with my peers in the Odyssey community?
 
 Respectfully and patiently. Go somewhere that Odyssey community members hang out (e.g., afterschool pick-up, Coffee Cart, etc.) and find someone to talk to.
 
-Within the context of ticketing, we're experimenting with a Discourse server to supplement other means. A link should have been included with the ticket announcement and should be on the ticketing form.[^3] If you are on Facebook, you can check the Odyssey Facebook group.
+Within the context of ticketing, we're experimenting with a Discourse server to supplement other means. A link should have been included with the ticket announcement and should be on the ticketing form.[^3] If you use Facebook, you can check the Odyssey Facebook group.
 
 [^3]: If a link was not included in the announcement and is not on the ticketing form, then most likely the experiment failed and we haven't updated the FAQ yet.
 
