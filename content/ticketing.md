@@ -1,8 +1,7 @@
----
-layout: page
-title: Performance Ticketing
-permalink: /ticketing
----
++++
+title = 'Performance Ticketing'
+permalink = '/ticketing'
++++
 
 # The Odyssey Auditorium
 
