@@ -27,13 +27,6 @@ If someone is not using their entire allocation of tickets, spare tickets can be
 We do our best to ensure that everyone who wants tickets claims their tickets. Then, if there is still space available, we will notify the cluster that each student may have one additional ticket, first-come first-serve, up to the capacity of each showing.
 
 
-[//]: <> (## The Mahopa (345 Performance))
-[//]: <> (*The Mahopa* is supposed to be done in the round. Sadly, we haven't found a good way to do that.)
-
-
-[//]: <> (# 678 Performances)
-
-[//]: <> (The 678 performances use assigned seating.)
 
 
 
