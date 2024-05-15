@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odyssey PTA</title>
+    <link>https://OdysseyPTA.github.io/</link>
+    <description>Recent content on Odyssey PTA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://OdysseyPTA.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
