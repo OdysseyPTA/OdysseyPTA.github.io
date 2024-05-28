@@ -11,7 +11,7 @@ The Odyssey auditorium has limited space. While we would love to accommodate eve
 
 We utilize online ticketing to make the process as efficient and equitable as possible. Links to the ticketing form will be sent out a week or two before the first day of the performance.
 
-The auditorium is not air conditioned. There is heat, but it will be off because it is both noisy and unnecessary. During performances a ramp is installed in the southwest entrance to the auditorium.
+The auditorium is not air conditioned. There is heat, but it will be off because it is both noisy and unnecessary. During performances a ramp is installed in the southeast entrance to the auditorium.
 
 If you have any questions or concerns about the ticketing process specifically, please contact the ticketing team for the performance. That information will be available from the online ticketing form.
 
