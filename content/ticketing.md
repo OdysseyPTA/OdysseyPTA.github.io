@@ -1,7 +1,7 @@
 +++
 title = 'Performance Ticketing'
 permalink = '/ticketing'
-featured_image = /images/odyssey_theater.jpg
+featured_image = '/images/odyssey_theater.jpg'
 +++
 
 # The Odyssey Auditorium
