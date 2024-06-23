@@ -1,6 +1,5 @@
 +++
 title = 'Performance Ticketing'
-permalink = '/ticketing'
 featured_image = '/images/odyssey_theater.jpg'
 +++
 
