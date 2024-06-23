@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Odyssey PTA
-subtitle: Supporting the Odyssey Program at East Sylvan
 featured_image: /images/Odyssey at the coast.jpg
 ---
 
