@@ -24,6 +24,8 @@ enableRobotsTXT = false
   background_color_class = "bg-gray"
   #recent_posts_number = 3
   enableGitInfo = true
+  # the next line eliminates the Recents section on the front page because nothing is of section "ignore"
+  mainSections = "ignore"
 
 #[[params.ananke_socials]]
 #  name = "facebook"
