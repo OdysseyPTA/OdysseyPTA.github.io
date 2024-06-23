@@ -1,13 +1,14 @@
 ---
-layout: page
+menus: main
 title: About
-permalink: /about/
 ---
 
-The Odyssey Program PTA is a 501(c)(3) dedicated to supporting the [Odyssey Program at East Sylvan](http://odysseyprogram.org){:target="_blank" rel="noopener"}, a Focus Option [Program of Portland Public Schools](https://www.pps.net/){:target="_blank" rel="noopener"}.
+The Odyssey Program PTA is a 501(c)(3) dedicated to supporting the [Odyssey Program at East Sylvan](http://odysseyprogram.org), a Focus Option Program of [Portland Public Schools](https://www.pps.net/).
 
-## The Board
+## The Board &ndash; 2023-2024
 
+| | |
+| --- | --- |
 | [President](mailto:president@odysseypta.org) | [Johanna Manalis](mailto:johanna.manalis@odysseypta.org) |
 | [Vice President](mailto:vice-president@odysseypta.org) | [Jess Soltesz](mailto:jess.soltesz@odysseypta.org) |
 | [Secretary](mailto:secretary@odysseypta.org) | [Bob Wall](mailto:bob.wall@odysseypta.org) |
