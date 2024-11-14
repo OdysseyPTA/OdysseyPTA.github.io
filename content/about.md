@@ -10,7 +10,7 @@ The Odyssey Program PTA is a 501(c)(3) dedicated to supporting the [Odyssey Prog
 
 | | |
 | --- | --- |
-| President | [Shaina Zakalik](mailto:shaina.zakalik@odysseypta.org) |
+| President | [Katie Dill](mailto:katie.dill@odysseypta.org) (Interim) |
 | Vice President | [Jenny Anderson](mailto:jenny.anderson@odysseypta.org) |
 | Secretary | [Bob Wall](mailto:bob.wall@odysseypta.org) |
 | Treasurer | [Brian Winters](mailto:brian.winters@odysseypta.org) |
