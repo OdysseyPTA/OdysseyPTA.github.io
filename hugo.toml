@@ -1,14 +1,14 @@
 baseURL = 'https://odysseypta.org/'
 languageCode = 'en-us'
 title = 'Odyssey PTA'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+theme = 'ananke'
+#resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 # Paginate = 3
 #googleAnalytics = ""
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
