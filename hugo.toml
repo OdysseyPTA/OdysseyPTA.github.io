@@ -2,18 +2,12 @@ baseURL = 'https://odysseypta.org/'
 languageCode = 'en-us'
 title = 'Odyssey PTA'
 theme = 'ananke'
-#resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-# Paginate = 3
-#googleAnalytics = ""
-enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+# use static robots.txt
+enableRobotsTXT = false
 
 [params]
   text_color = "near-black"
@@ -22,12 +16,7 @@ enableRobotsTXT = true
   #description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-gray"
-  #recent_posts_number = 3
+  recent_posts_number = 0
   enableGitInfo = true
   # the next line eliminates the Recents section on the front page because nothing is of section "ignore"
   mainSections = "ignore"
-
-#[[params.ananke_socials]]
-#  name = "facebook"
-#  url = "https://facebook.com/"
-#  follow = false
